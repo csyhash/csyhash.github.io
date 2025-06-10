@@ -18,13 +18,13 @@ body {
 /***** Header (in /includes/nav.php) *****/
 .headerImg {
   background: #2EA656;
-  background-image: url("../images/banners/tris.svg");
+  background-image: url("../images/banners/tree.jpg");
   height: 290px;
 }
 
 @media (min-width: 786px) {
   .headerImg {
-    height: 240px;
+    height: 290px;
   }
 }
 
